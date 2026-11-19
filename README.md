@@ -48,7 +48,7 @@ A fast, interactive conversational AI chatbot built with **Streamlit**, **LangCh
    ```bash
    streamlit run Phase1.py
    ```
-
+Check out the website: https://aichatbotusingrag.streamlit.app/
 ## Usage
 1. Open the local URL provided in your terminal (usually `http://localhost:8501`).
 2. Type your question or message into the chat input box at the bottom.
